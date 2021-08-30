@@ -1,2 +1,2 @@
 # birthday-palindrome
- tells if your birthday is a palindrome!
+ Tells if your birthday is a palindrome!
